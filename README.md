@@ -5,4 +5,4 @@ This project uses a [nynorsk word frequency list from Wikipedia](<https://en.wik
 
 It also uses the Apertium translation API to compare this list to Bokmål.
 
-It is a very specialized tool, and I doubt it will be of any use outside my use case.
+It is a very specialized tool, and I doubt it will be of any use outside of my use case.
